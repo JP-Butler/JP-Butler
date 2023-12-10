@@ -1,5 +1,5 @@
-<center># Welcome to my GitHub ! 👋</center>
-<center>### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***</center>
+# <center> Welcome to my GitHub ! 👋</center>
+### <center> ***“I provide companies with unique ways to uncover insights and solve problems with data.”***</center>
 
 👨‍💻 I am a Data Analyst from Canada 🇨🇦 with a background in the Retail Grocery Business. <br>
 <br>
@@ -12,7 +12,7 @@ Some passions, hobbies & interests of mine are: education and learning, especial
 <br>
 <br>
 ### Let's Connect : <br>
-[<img src="http://www.google.com.au/images/nav_logo7.png">](https://www.linkedin.com/in/-justin-butler-/))
+
 
 <!--
 **JP-Butler/JP-Butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
