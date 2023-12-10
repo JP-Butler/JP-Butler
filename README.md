@@ -1,17 +1,20 @@
-<div style="text-align:center;">
-<h1>  Welcome to my GitHub ! 👋 </h1>
-<h2> “I provide companies with unique ways to uncover insights and solve problems with data.” </h2>
-</div>
+# Welcome to my GitHub ! 👋 
+### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
+
 👨‍💻 I am a Data Analyst from Canada with a background in the Retail Grocery Business. <br>
 <br>
 📈📊 I am currently seeking a position in Data or Business Analytics where I can utilize & grow my data analysis & visualization skills! <br>
 Some mottos I love are: 
 * "I believe that good data analysts shouldn’t only be knowledgable in relevant technical skills but also knowledgable in the business or industry they work in.” <br>
 * "With consistent small steps, big things can be achieved!" 🔑
-
+<br>
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends
-
-### Let's Connect: 
+<br>
+LANGUAGES:  Python, SQL <br>
+TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
+SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
+<br>
+### Let's Connect: [LinkedIn](https://www.linkedin.com/in/-justin-butler-/)
 
 
 <!--
