@@ -1,4 +1,4 @@
-# Welcome to my GitHub ! 👋 
+# Welcome to my GitHub ! 👋 Let's Connect: Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 ### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
 
 👨‍💻 I am a Data Analyst from Canada with a background in the Retail Grocery Business. <br>
@@ -26,10 +26,10 @@ Data Processing, Cleaning, Analysis & Visualization, Database Management, Interm
 **Languages:**  Python, SQL <br>
 **Tools:**  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
 **Skills:** Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
--->
+
 ### Let's Connect: 
 Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
-
+-->
 
 <!--
 **JP-Butler/JP-Butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
