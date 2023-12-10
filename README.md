@@ -1,8 +1,8 @@
  
 <h1>  Welcome to my GitHub ! 👋 </h1>
-### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
+***“I provide companies with unique ways to uncover insights and solve problems with data.”***
 
-👨‍💻 I am a Data Analyst from Canada 🇨🇦 with a background in the Retail Grocery Business. <br>
+👨‍💻 I am a Data Analyst from Canada with a background in the Retail Grocery Business. <br>
 <br>
 📈📊 I am currently seeking a position in Data or Business Analytics where I can utilize & grow my data analysis & visualization skills! <br>
 Some mottos I love are: 
