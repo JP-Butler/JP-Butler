@@ -1,5 +1,5 @@
 # Welcome to my GitHub ! 👋 
-## Let's Connect: Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
+## Let's Connect: LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 ### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
 
 👨‍💻 I am a Data Analyst from Canada with a background in the Retail Grocery Business. <br>
@@ -20,7 +20,7 @@ Some passions, hobbies & interests of mine are: education and learning, especial
 * **Big Data/Cloud** ➡ AWS, DataBricks
 
 ### Skills
-Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
+Data Processing, Cleaning, Analysis & Visualization, Databases & Management, Intermediate Machine Learning
 
 
 <!--
