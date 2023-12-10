@@ -1,13 +1,6 @@
-<div style="text-align:center;">
-Welcome to my GitHub ! 👋
-</div>
-
-<center> 
+ 
 <h1>  Welcome to my GitHub ! 👋 </h1>
-</center>
-<center> 
 ### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
-</center>
 
 👨‍💻 I am a Data Analyst from Canada 🇨🇦 with a background in the Retail Grocery Business. <br>
 <br>
