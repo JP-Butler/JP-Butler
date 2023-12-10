@@ -11,7 +11,7 @@ Some mottos I live are:
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise
 <br>
 <br>
-📫 How to reach me:[LinkedIn](![image](https://github.com/JP-Butler/JP-Butler/assets/129707393/a25306a3-f0ba-4dda-aa20-d45c1d04748c)](https://www.linkedin.com/in/-justin-butler-/)
+📫 How to reach me:[LinkedIn][(![image](https://github.com/JP-Butler/JP-Butler/assets/129707393/a25306a3-f0ba-4dda-aa20-d45c1d04748c)](https://www.linkedin.com/in/-justin-butler-/)
 
 <!--
 **JP-Butler/JP-Butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
