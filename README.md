@@ -10,17 +10,13 @@ Some mottos I love are:
 <br>
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends <br>
 
-### Languages & Tools:
+### Languages & Tools ⬇
 * **Jupyter Notebook**
 * **Excel**
-* **Python**
-  * Pandas, Numbpy, Matplotlib, Seaborn, SciPy, Flask, Tensorflow
-* **SQL & NoSQL**
-  * PostgreSQL, MySQL, MongoDB
-* **Visualization**
-  * Tableau
-* **Big Data/Cloud**
-  * AWS, DataBricks
+* **Python** ➡ Pandas, Numbpy, Matplotlib, Seaborn, SciPy, Flask, Tensorflow
+* **SQL & NoSQL** ➡ PostgreSQL, MySQL, MongoDB
+* **Visualization** ➡ Tableau
+* **Big Data/Cloud** ➡ AWS, DataBricks
 
 ### Skills
 Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
