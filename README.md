@@ -13,9 +13,9 @@ Some passions, hobbies & interests of mine are: education and learning, especial
 LANGUAGES:  Python, SQL <br>
 TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
 SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
-<br>
+  
 ### Let's Connect: 
-Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/justin-butler-/)
+Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 
 
 <!--
