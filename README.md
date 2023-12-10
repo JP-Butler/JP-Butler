@@ -1,4 +1,5 @@
-# Welcome to my GitHub ! 👋 Let's Connect: Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
+# Welcome to my GitHub ! 👋 
+## Let's Connect: Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 ### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
 
 👨‍💻 I am a Data Analyst from Canada with a background in the Retail Grocery Business. <br>
