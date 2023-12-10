@@ -1,5 +1,5 @@
 <center> 
-#  Welcome to my GitHub ! 👋
+<h1>  Welcome to my GitHub ! 👋 </h1>
 </center>
 <center> 
 ### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
