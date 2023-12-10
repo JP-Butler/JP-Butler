@@ -1,11 +1,15 @@
-# <center> Welcome to my GitHub ! 👋</center>
-### <center> ***“I provide companies with unique ways to uncover insights and solve problems with data.”***</center>
+<center> 
+#  Welcome to my GitHub ! 👋
+</center>
+<center> 
+### ***“I provide companies with unique ways to uncover insights and solve problems with data.”***
+</center>
 
 👨‍💻 I am a Data Analyst from Canada 🇨🇦 with a background in the Retail Grocery Business. <br>
 <br>
 📈📊 I am currently seeking a position in Data or Business Analytics where I can utilize & grow my data analysis & visualization skills! <br>
 Some mottos I love are: 
-* " I believe that good data analysts shouldn’t only be knowledgable in relevant technical skills but also knowledgable in the business or industry they work in.” <br>
+* "I believe that good data analysts shouldn’t only be knowledgable in relevant technical skills but also knowledgable in the business or industry they work in.” <br>
 * "With consistent small steps, big things can be achieved!" 🔑
 
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends
