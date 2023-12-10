@@ -11,8 +11,8 @@ Some mottos I love are:
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise
 <br>
 <br>
-### Let's Connect :
-[<img src="[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)">](https://www.linkedin.com/in/-justin-butler-/))
+### Let's Connect : <br>
+[<img src="http://www.google.com.au/images/nav_logo7.png">](https://www.linkedin.com/in/-justin-butler-/))
 
 <!--
 **JP-Butler/JP-Butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
