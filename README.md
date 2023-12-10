@@ -15,7 +15,7 @@ TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotl
 SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
 <br>
 ### Let's Connect: 
-Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
+Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/justin-butler-/)
 
 
 <!--
