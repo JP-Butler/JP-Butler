@@ -9,11 +9,28 @@ Some mottos I love are:
 * "With consistent small steps, big things can be achieved!" 🔑
 <br>
 Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends <br>
-<br>
-LANGUAGES:  Python, SQL <br>
-TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
-SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
-  
+
+### Languages & Tools:
+* **Jupyter Notebook**
+* **Excel**
+* **Python**
+  * Pandas, Numbpy, Matplotlib, Seaborn, SciPy, Flask, Tensorflow
+* **SQL & NoSQL**
+  * PostgreSQL, MySQL, MongoDB
+* **Visualization**
+  * Tableau
+* **Big Data/Cloud**
+  * AWS, DataBricks
+
+### Skills
+Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
+
+
+<!--
+**Languages:**  Python, SQL <br>
+**Tools:**  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
+**Skills:** Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
+-->
 ### Let's Connect: 
 Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 
