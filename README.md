@@ -14,7 +14,8 @@ LANGUAGES:  Python, SQL <br>
 TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
 SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
 <br>
-### Let's Connect: [LinkedIn](https://www.linkedin.com/in/-justin-butler-/)
+### Let's Connect: <br>
+[LinkedIn](https://www.linkedin.com/in/-justin-butler-/)
 
 
 <!--
