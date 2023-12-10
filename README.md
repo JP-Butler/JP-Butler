@@ -8,14 +8,14 @@ Some mottos I love are:
 * "I believe that good data analysts shouldn’t only be knowledgable in relevant technical skills but also knowledgable in the business or industry they work in.” <br>
 * "With consistent small steps, big things can be achieved!" 🔑
 <br>
-Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends
+Some passions, hobbies & interests of mine are: education and learning, especially in the field of Data Analytics & Science, playing ⚾🏀🏒🏈  & watching sports (Go Packers !🏈), exercise & spending time with family & friends <br>
 <br>
 LANGUAGES:  Python, SQL <br>
 TOOLS:  MongoDB, PostgreSQL, AWS, Flask, Tableau, Excel, Jupyter Notebook, Plotly.js, Leaflet.js, SQLAlchemy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow <br>
-SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning
+SKILLS: Data Processing, Cleaning, Analysis & Visualization, Database Management, Intermediate Machine Learning <br>
 <br>
-### Let's Connect: <br>
-[LinkedIn](https://www.linkedin.com/in/-justin-butler-/)
+### Let's Connect: 
+Find me on LinkedIn --> [Justin Butler Data Analyst](https://www.linkedin.com/in/-justin-butler-/)
 
 
 <!--
